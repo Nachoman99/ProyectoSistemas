@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trejo\\source\\repos\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj": {}
+    "C:\\Users\\Nacho\\Source\\Repos\\Nachoman99\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\trejo\\source\\repos\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj": {
+    "C:\\Users\\Nacho\\Source\\Repos\\Nachoman99\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trejo\\source\\repos\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj",
+        "projectUniqueName": "C:\\Users\\Nacho\\Source\\Repos\\Nachoman99\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj",
         "projectName": "SistemasProyecto",
-        "projectPath": "C:\\Users\\trejo\\source\\repos\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj",
-        "packagesPath": "C:\\Users\\trejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trejo\\source\\repos\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\obj\\",
+        "projectPath": "C:\\Users\\Nacho\\Source\\Repos\\Nachoman99\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj",
+        "packagesPath": "C:\\Users\\Nacho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nacho\\Source\\Repos\\Nachoman99\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nacho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
