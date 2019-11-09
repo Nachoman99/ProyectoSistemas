@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nacho\\.nuget\\packages\\": {}
+    "C:\\Users\\trejo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nacho\\Source\\Repos\\Nachoman99\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj",
+      "projectUniqueName": "C:\\Users\\trejo\\Source\\Repos\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj",
       "projectName": "SistemasProyecto",
-      "projectPath": "C:\\Users\\Nacho\\Source\\Repos\\Nachoman99\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj",
-      "packagesPath": "C:\\Users\\Nacho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nacho\\Source\\Repos\\Nachoman99\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\obj\\",
+      "projectPath": "C:\\Users\\trejo\\Source\\Repos\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\SistemasProyecto.vbproj",
+      "packagesPath": "C:\\Users\\trejo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\trejo\\Source\\Repos\\ProyectoSistemas\\SistemasProyecto\\SistemasProyecto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nacho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\trejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
